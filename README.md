@@ -28,7 +28,7 @@ This app allows users to add their daily expenses, categorize them, and view the
 
 1. Clone or download this repository.
 2. Open the `expensetracker.html` file in any web browser.
-3. Start adding your expenses! 💸
+3. Start adding your expenses! 
 
 ---
 
